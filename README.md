@@ -11,7 +11,7 @@ Welcome to the School Website Project! This project aims to create a fully funct
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-    - [Running the Development Server](#running-the-development-server)
+    - [Running the Development Server](#https://school-management-taupe.vercel.app/)
   - [Project Structure](#project-structure)
   - [Components](#components)
     - [Navbar](#navbar)
