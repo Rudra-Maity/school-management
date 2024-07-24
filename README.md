@@ -1,4 +1,4 @@
-# School Website Project
+# School Website Project[https://school-management-taupe.vercel.app/]
 
 Welcome to the School Website Project! This project aims to create a fully functional, responsive, and user-friendly school website using React, Bootstrap, and React Router. The website provides detailed information about the school's academics, admissions, faculty, students, gallery, and contact details.
 
@@ -11,7 +11,7 @@ Welcome to the School Website Project! This project aims to create a fully funct
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-    - [Running the Development Server](#https://school-management-taupe.vercel.app/)
+    - [Running the Development Server](#)
   - [Project Structure](#project-structure)
   - [Components](#components)
     - [Navbar](#navbar)
