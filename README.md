@@ -1,8 +1,30 @@
-# React + Vite
+# School Website Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive school website built using React, Bootstrap, and React Router. The website includes various pages such as Home, About Us, Academics, Admissions, Faculty, Students, Gallery, and Contact Us. The design is responsive and works well on both desktop and mobile devices.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Responsive design using Bootstrap
+- Multi-page layout with React Router
+- Sticky Navbar with a logo and navigation links
+- Content organized into Bootstrap cards
+- Carousel component for displaying images on the homepage
+- Quick links for easy navigation
+
+## Installation
+
+To set up this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/school-website.git
+   cd school-website
