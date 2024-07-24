@@ -3,7 +3,7 @@ import React from 'react';
 
 const Admissions = () => {
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 text-center">
       <h1>Admissions</h1>
       <h2>Admission Process</h2>
       <p>Our admission process is designed to identify students who are eager to learn and contribute positively to our school community.</p>
